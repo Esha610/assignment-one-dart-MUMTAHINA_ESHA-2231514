@@ -17,7 +17,8 @@ double calculateBMI(double weight, double height) {
 
 // 3. Write a function called getGrade that takes a score (int) and returns a grade (String) based on:
 //    - 90-100: A
-//    - 80-89: B
+//    - 80-89: Bdart test test/question1_test.dart
+
 //    - 70-79: C
 //    - 60-69: D
 //    - Below 60: F
